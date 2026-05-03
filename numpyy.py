@@ -35,3 +35,7 @@ print(arr2d.size)
 print(arr3d.size)
 print(arr2d.dtype)
 print(arr3d.dtype)
+
+print(np.eye(10)) #birim matris
+
+
